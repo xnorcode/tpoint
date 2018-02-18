@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">tpoint</string>
+
+    <string name="tag_btn_tag">TAG</string>
+    <string name="tag_btn_remove_tag">REMOVE</string>
+
+    <!-- Toast -->
+    <string name="toast.point_tagged">Point tagged!</string>
+    <string name="toast.point_untagged">Point un-tagged.</string>
+
+    <!-- Alerts -->
+    <string name="alert">TPOINT NEARBY</string>
+</resources>
